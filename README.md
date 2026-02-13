@@ -4,3 +4,6 @@ A step-by-step project for cleaning and preprocessing Kaggle datasets, including
 # New York City Airbnb 
 
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
+# Cafe Sales - Dirty Data for Cleaning
+https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data
